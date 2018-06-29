@@ -1,5 +1,5 @@
 # AR-Farm
-Xcode project that uses ARKit to create a surface on which 3D animals can be placed. This was made using ARKit and Swift 4.
+Xcode project that uses ARKit to find a flat surface on which 3D animals can be placed. The flat surface is then marked with green grass and the user can tap to add the animal. The animals then roam in the world randomly.
 
 Screenshots
 
