@@ -1,10 +1,12 @@
-# AR-Farm
+# AR-Farm / Relaxing Farm
 Xcode project that uses ARKit to find a flat surface on which 3D animals can be placed. The flat surface is then marked with green grass and the user can tap to add the animal. The animals then roam in the world randomly.
 The animals were made and animated in Blender.
 
 Instructions
+- Download the RelaxingFarm ZIP file and open the Xcode project
+- Run the project on an Apple device with an A9 chip or above (iPhone 6s or above, iPad Pro or iPad 2017)
 
-- First, the app needs to find a flat horizontal surface. When it has identified one, it will place a green plane (grass) on the screen.
+- Once opened, the app needs to find a flat horizontal surface. When it has identified one, it will place a green plane (grass) on the screen.
 
 - To add an animal select the animal on the picker, and tap the screen.
 
